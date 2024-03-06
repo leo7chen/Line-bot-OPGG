@@ -9,7 +9,7 @@ Welcome to the OPGG Line Bot repository, an interactive chatbot for Line that pr
 
 2.Type "R" followed by the summoner's name to view the last five match records.
 
-[![視頻標題](http://img.youtube.com/vi/Sp_99wCC9zE/0.jpg)](http://www.youtube.com/shorts/Sp_99wCC9zE)
+[![opgg-linebot](http://img.youtube.com/vi/Sp_99wCC9zE/0.jpg)](http://www.youtube.com/shorts/Sp_99wCC9zE)
 
 
 
